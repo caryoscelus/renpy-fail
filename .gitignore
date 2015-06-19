@@ -1,0 +1,7 @@
+tmp/
+cache/
+saves/
+*.rpyc
+*.rpyb
+*.zip
+log.txt
